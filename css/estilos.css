@@ -1,3 +1,4 @@
+
 h1.primeiro {
     color: darkorange;
 }
@@ -5,5 +6,6 @@ h1.primeiro {
 h1.segundo {
     color: blueviolet;
 }
-
-
+table, th, tr, td {
+    border: 1px solid black
+}
