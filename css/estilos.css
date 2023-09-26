@@ -1,11 +1,23 @@
 
 h1.primeiro {
-    color: darkorange;
+    color: #4a5969;
 }
 
 h1.segundo {
-    color: blueviolet;
+    color: ;
 }
 table, th, tr, td {
     border: 1px solid black
 }
+span{
+    font-weight: bold
+}
+span.xiao{
+    color:#9780A6
+}
+p.dialogo{
+    font-weight: bold;
+}
+body {
+    background-color:#35424c;
+  }
