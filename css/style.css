@@ -1,32 +1,32 @@
 p, ol, ul{
-    color:white;
+    color: white;
 }
 h1, h2, h3 {
-    color:	#ff2600;
+    color: #ffbf00;
 }
 h4{
-    color: 	#c4593b;
+    color: #36BFBF;
 }
-table, th, tr, td, main {
-    border: 1px solid white;
+table, th , tr, td, main {
+    border: 1px solid black
     color: white;
 }
 span{
     font-weight: bold;
-    color:		#c4593b;
+    color: #5888A6;
 }
-span.kazuha, nav{
-    color:	#dc835a;
+nav{
+    color: #9780A6;
 }
 p.dialogo{
     font-weight: bold;
 }
 body {
-    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d5004956-c7d5-44dc-b1c3-080cf8827715/dem7ig1-9e501b18-0826-4043-b963-f367f2c2d89b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q1MDA0OTU2LWM3ZDUtNDRkYy1iMWMzLTA4MGNmODgyNzcxNVwvZGVtN2lnMS05ZTUwMWIxOC0wODI2LTQwNDMtYjk2My1mMzY3ZjJjMmQ4OWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fNUfFNmGLtmM2AnCAZ9JQ5LMq-D-RhRc2r-82On3OUg");
-    background-repeat: repeat;
-    background-position: right top;
-    background-attachment: fixed;
-    background-blend-mode: multiply;
-    background-size: cover;
-    background-color:#40262b;
-     }
+    background-image: url("img/escriba.png");
+background-repeat:repeat ;
+background-position: right top;
+background-attachment: fixed;
+background-blend-mode: multiply;
+background-size: cover;
+background-color: #befa70;
+}
