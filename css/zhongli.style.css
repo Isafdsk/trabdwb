@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://i.pinimg.com/564x/c3/8b/31/c38b31dca161933d5cb2d90581e21753.jpg");
+background-repeat:repeat ;
+background-position: right top;
+background-attachment: fixed;
+background-blend-mode: multiply;
+background-size: cover;
+background-color: #cfa344;
+}
+
+table, th, tr, td {
+   border: 1px solid black
+}
