@@ -1,0 +1,32 @@
+p, ol, ul{
+    color:white;
+  }
+  h1, h2, h3 {
+    color:	#ff9900;
+  }
+  h4{
+    color: #bf9436;
+  }
+  table, th, tr, td, main {
+    border: 1px solid white;
+    color: white;
+  }
+  span{
+    font-weight: bold;
+    color:	#a67558;
+  }
+  span.lisa, nav{
+    color:#bb7f5c
+  }
+  p.dialogo{
+    font-weight: bold;
+  }
+  body {
+    background-image: url("https://images4.alphacoders.com/124/1249591.jpg");
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-color:#9c6d25;
+     }

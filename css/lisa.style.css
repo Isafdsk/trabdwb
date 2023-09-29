@@ -1,0 +1,32 @@
+p, ol, ul{
+    color:white;
+}
+h1, h2, h3 {
+    color:	#ad18ca;
+}
+h4{
+    color: #9436bf;
+}
+table, th, tr, td, main {
+    border: 1px solid white;
+    color: white;
+}
+span{
+    font-weight: bold;
+    color:	#9058a6;
+}
+span.xiao, nav{
+    color:#9780A6
+}
+p.dialogo{
+    font-weight: bold;
+}
+body {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/507/102/427/genshin-impact-anime-girls-lisa-genshin-impact-cleavage-hd-wallpaper-preview.jpg");
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-color:#4b1744;
+     }
