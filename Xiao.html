@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8" />
     <title>Xiao</title>
-    <script src="js/xiao.js"></script>
     <link rel="stylesheet" href="css/xiao.style.css"/>
 
 </head>
@@ -138,9 +137,8 @@
                 </tbody>
         </table>
         <hr>
-        <button id="btnPrimeiro">Clique incorporado!</button><br><br>
-        <button id="btnSegundo">Clique duplo inline!</button><br><br>
-        <button class="btnTerceiro">Clique vinculado!</button><br><br>
+        <button id="btnPrimeiro" ondblclick="alert('este é o Xiao')"><img src="img/xiao.png" title="xiao" alt="nao carregou..." width="90"></button><br><br>
+        <button class="btnTerceiro">clique para mudar a cor da pagina</button>
         <ul>
             <li>
                 <nav>
@@ -170,6 +168,6 @@
             </li>
         </ul>
     </main>
-   
+    <script src="js/xiao.js"></script>
 </body>
 </html>
